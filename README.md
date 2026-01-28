@@ -7,10 +7,11 @@
 ```markdown
 /
 └── 科研
-    └── PYTORCH
+    └── 图像分类
         ├── LeNet-5
         ├── AlexNet
-        └── VGG
+        ├── VGG
+        └── GoogLeNet
 
 ```
 
