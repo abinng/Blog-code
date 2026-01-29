@@ -11,7 +11,8 @@
         ├── LeNet-5
         ├── AlexNet
         ├── VGG
-        └── GoogLeNet
+        ├── GoogLeNet
+        └── ResNet
 
 ```
 
